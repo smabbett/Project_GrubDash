@@ -33,12 +33,12 @@ In this project, I built APIs with complex validation. The learning objectives o
 
 ##Screenshots
 
-![Screenshot](./images/home.png)
+![Screenshot](./src/images/home.png)
 
-![Screenshot](./images/dashboard.png)
+![Screenshot](./src/images/dashboard.png)
 
-![Screenshot](./images/create_order.png)
+![Screenshot](./src/images/create_order.png)
 
-![Screenshot](./images/order_confirmed.png)
+![Screenshot](./src/images/order_confirmed.png)
 
-![Screenshot](./images/create_dish.png)
+![Screenshot](./src/images/create_dish.png)
